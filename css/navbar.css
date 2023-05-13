@@ -70,7 +70,7 @@
   .nav-container .nav-link.active,
   .nav-container .nav-link:hover {
     transition: var(--transition);
-    background: var(--clr-white-light);
+    background: var(--clr-blue-light);
     color: var(--clr-black);
   }
   .nav-social-links-main {
